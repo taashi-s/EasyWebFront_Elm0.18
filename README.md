@@ -1,4 +1,4 @@
-# easy-web-front (use elm 0.18)
+# SimpleWebFront (use elm 0.18)
 
 
 ## installation of elm-0.18
